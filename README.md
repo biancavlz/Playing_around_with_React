@@ -1,3 +1,5 @@
+This is a simple React app created for the purpose of playing around with React code
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
