@@ -42,7 +42,8 @@ class App extends Component {
 
   render() {
     const styling = {
-      backgroundColor: "white", 
+      backgroundColor: "green",
+      color: "white",
       font: "inherit",
       border: "1px solid blue",
       padding: "8px",
@@ -65,6 +66,8 @@ class App extends Component {
           }
         </div>
       );
+
+      styling.backgroundColor = "red";
     }
 
     return (
